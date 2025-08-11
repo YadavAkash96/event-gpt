@@ -19,7 +19,7 @@ git clone https://github.com/<your-username>/event-gpt.git
 cd event-gpt
 
 # Create a virtual environment
-python -m venv venv
+python -m venv event-gpt
 source venv/bin/activate   # on Windows: venv\Scripts\activate
 
 # Install dependencies (will update later)
